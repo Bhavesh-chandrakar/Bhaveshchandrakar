@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/the-Bhaveshchandrakar/" title="LinkedIn Profile"><img width="22"                            
+    <a href="https://www.linkedin.com/in/bhavesh-chandrakar-149490131/" title="LinkedIn Profile"><img width="22"                            
 src="https://github.com/Bhavesh-chandrakar/Bhavesh-chandrakar/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/Bhaveshchandrakar" title="HackerRank Profile"><img width="22"     
 src="https://github.com/Bhavesh-chandrakar/Bhavesh-chandrakar/blob/master/images/hackerrank.png"> HackerRank</a></code>
