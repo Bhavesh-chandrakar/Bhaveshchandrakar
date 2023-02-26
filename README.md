@@ -9,14 +9,14 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/bhavesh-chandrakar-149490131/" title="LinkedIn Profile"><img width="22"                            
-src="https://github.com/Bhavesh-chandrakar/Bhavesh-chandrakar/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/Bhaveshchandrakar" title="HackerRank Profile"><img width="22"     
-src="https://github.com/Bhavesh-chandrakar/Bhavesh-chandrakar/blob/master/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://github.com/Bhaveshchandrakar/Bhaveshchandrakar/blob/master/images/wip_shapes2.gif" title="Website"><img width="22" src="https://github.com/Bhaveshchandrakar/Bhaveshchandrakar/blob/master/images/website.png"> Website</a></code>
+src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/wip_shapes2.gif" title="Website"><img width="22" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/website.png"> Website</a></code>
 </h5>
 <br>
   <p align="center">
-    Hi, I'm Bhavesh chandrakar, DevOps Engineer from India
+    Hi, I'm Bhavesh chandrakar, Lead DevOps Engineer from India
     <br>
     <br>
     🔬 I'm currently working in Hewlett Packard Enterprise as DevOps Engineer
@@ -27,7 +27,7 @@ src="https://github.com/Bhavesh-chandrakar/Bhavesh-chandrakar/blob/master/images
     <br>
     📚 I have work experience in Azure,AWS,Jenkins,Ansible,Docker,K8S,Terraform and various CI/CD tools. 
     <br>
-    💬 Ask me about anything from <a href="https://github.com/Bhavesh-chandrakar/Bhavesh-chandrakar/issues" title="Issues">here</a>
+    💬 Ask me about anything from <a href="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/issues" title="Issues">here</a>
     <br>
     📫 How to reach me: <a href="mailto: bchandrakar7@gmail.com">bchandrakar7@gmail.com</a>
   </p>
@@ -35,16 +35,16 @@ src="https://github.com/Bhavesh-chandrakar/Bhavesh-chandrakar/blob/master/images
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C++" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/blob/master/images/c.png"></code>
-  <code><img title="Python" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/blob/master/images/python.svg"></code>
-  <code><img title="Azure" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/blob/master/images/azure.png"></code>
-  <code><img title="Docker" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/blob/master/images/docker.png"></code>
-  <code><img title="Kubernetes" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/blob/master/images/kubernetes.png"></code>
-  <code><img title="Jenkins" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/blob/master/images/jenkins.png"></code>
-  <code><img title="Git" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/blob/master/images/git.png"></code>
-  <code><img title="Terraform" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/blob/master/images/terraform.png"></code>
-  <code><img title="Ansible" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/blob/master/images/ansible.svg"></code>
-  <code><img title="VS Code" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/blob/master/images/vscode.png"></code>
+  <code><img title="C++" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/c.png"></code>
+  <code><img title="Python" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/python.svg"></code>
+  <code><img title="Azure" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/azure.png"></code>
+  <code><img title="Docker" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/docker.png"></code>
+  <code><img title="Kubernetes" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/kubernetes.png"></code>
+  <code><img title="Jenkins" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/jenkins.png"></code>
+  <code><img title="Git" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/git.png"></code>
+  <code><img title="Terraform" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/terraform.png"></code>
+  <code><img title="Ansible" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/ansible.svg"></code>
+  <code><img title="VS Code" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/vscode.png"></code>
 </p>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
