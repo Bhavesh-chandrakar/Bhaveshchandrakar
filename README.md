@@ -35,8 +35,8 @@ src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/hackerrank.p
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C++" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/c.png"></code>
-  <code><img title="Python" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/python.svg"></code>
+  <code><img title="C++" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/master/images/c.png"></code>
+  <code><img title="Python" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/master/images/python.svg"></code>
   <code><img title="Azure" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/azure.png"></code>
   <code><img title="Docker" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/docker.png"></code>
   <code><img title="Kubernetes" height="35" src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/kubernetes.png"></code>
