@@ -87,5 +87,5 @@ src="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar/images/hackerrank.p
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
-  <a href="https://github.com/Bhavesh-chandrakar?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Bhavesh-chandrakar/Bhaveshchandrakar?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
